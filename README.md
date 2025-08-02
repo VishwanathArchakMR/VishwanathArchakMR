@@ -7,8 +7,7 @@
 📬 Reach me at: fuelupwithmrarchak05@gmail.com  
 
 🛠️ Tech Stack  
-**Languages:** Python, JavaScript, HTML, CSS  
-**Libraries & Frameworks:** FastAPI, React, Streamlit, Flask  
+**Languages:** Python, JavaScript, HTML, CSS    
 **Tools & Platforms:** Git, GitHub, Firebase, Supabase, VS Code  
 **AI/ML:** OpenAI APIs, Chatbot development, Prompt Engineering  
 **Operating Systems:** Windows, Linux  
