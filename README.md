@@ -1,5 +1,5 @@
 👨‍💻 About Me  
-💻 I’m a Python & Frontend Developer focused on building real-world applications.  
+💻 I’m a Python & Full Stack Developer focused on building real-world applications.  
 🎓 On a mission to help students go beyond college with skill-first learning.  
 🔥 Founder of “Fuel Up with Mr. Archak” — a movement to inspire creators and coders.  
 🌍 Passionate about automation AI & LLMs, automation with MLOps, immersive technologies like AR, and building secure, ethical systems for the future and AI integration.  
